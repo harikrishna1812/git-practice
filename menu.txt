@@ -4,3 +4,7 @@ preparing for devops
 now changed the branch 
 
 and trying to evaluate what will happen 
+
+now we are in my private branch 
+
+and trying to revert or remove one changes 
